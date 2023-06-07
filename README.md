@@ -1,7 +1,7 @@
 # SQL-Case-Study
 **Overview**
 
-This case study uses PostgreSQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
+This case study uses MySQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
 
 - Basic aggregations
 - CASE WHEN statements
